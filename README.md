@@ -1,10 +1,10 @@
 Don Bradman's Test Batting Average: Confidence Intervals and Prediction Intervals
 =================================================================================
-* Simon D. Angus, Dept. of Economics, Monash University (Feb 2019)*
+*Simon D. Angus, Dept. of Economics, Monash University (Feb 2019)*
 
-To accompany online article entitled *How long before we break the two-hour barrier in the men’s marathon?* published on 27 Feb 2019 at: https://theconversation.com/how-long-before-we-break-the-two-hour-barrier-in-the-mens-marathon-112505
+To accompany the online article entitled, *How long before we break the two-hour barrier in the men’s marathon?* published on 27 Feb 2019 at: https://theconversation.com/how-long-before-we-break-the-two-hour-barrier-in-the-mens-marathon-112505
 
-Which reports on a scientific article, *A statistical timetable for the sub-2 hour marathon*, published in _Medicine & Science of Sport and Exercise_ and is available, under open-access, from the publisher's website.
+Which accompanies a scientific report by the author, *A statistical timetable for the sub-2 hour marathon*, published in _Medicine & Science of Sport and Exercise_ and is available, under open-access, from the publisher's website.
 
 ## Running the code
 We assume **MATLAB** is installed, with the *Statistics* toolbox (to get the inverse t-distribution). However, the code is very transparent and could be implemented easily in any mathematical or statistical software.
